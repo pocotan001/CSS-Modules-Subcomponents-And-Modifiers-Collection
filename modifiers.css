@@ -105,3 +105,17 @@
 
 --slideshow {}
 --graphic {}
+
+
+/* Works well with buttons, icons
+ * ----------------------------------------
+ * Example: .button--large
+ */
+
+--xx-small {}
+--x-small {}
+--small {}
+--medium {}
+--large {}
+--x-large {}
+--xx-large {}
